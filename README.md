@@ -1,4 +1,10 @@
-## Hi there 👋
+## hi!
+
+i am very interested in anything low level!
+
+- currently learning
+  - kernel development
+  - reverse engineering
 
 <!--
 **miikaoskari/miikaoskari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
