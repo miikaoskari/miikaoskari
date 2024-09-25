@@ -5,6 +5,8 @@ i am very interested in anything low level!
 - currently learning
   - kernel development
   - reverse engineering
+- student at university of vaasa
+  - working towards master's in computer science
 
 <!--
 **miikaoskari/miikaoskari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
