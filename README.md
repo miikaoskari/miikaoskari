@@ -1,12 +1,8 @@
 ## hi!
 
-i am very interested in anything low level!
+data structure, kernel and reverse engineering nerd.
 
-- currently learning
-  - kernel development
-  - reverse engineering
-- student at university of vaasa
-  - working towards master's in computer science
+working towards master's in computer science at university of vaasa.
 
 <!--
 **miikaoskari/miikaoskari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
